@@ -1,4 +1,4 @@
-# Videokonferenzintro - Waldspazierung
+# Videokonferenzintro - WindowSwap
 
 Eine Anleitung zum Remix findest Du [hier](https://videokonferenzintro.de/anleitung.html)
 
